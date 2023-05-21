@@ -1,0 +1,87 @@
+* {
+    color: #b59c9c;
+}
+
+#uf_pais {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(17, 100, 173);
+    background: antiquewhite;
+    padding: 10px;
+    text-indent: 35ch;
+    text-shadow: 1px 1px black;
+}
+
+#uf_cidade {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(17, 100, 173);
+    background: antiquewhite;
+    text-indent: 45ch;
+    padding: 15px;
+    
+}
+
+.cidade_es {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    background: rgb(218, 199, 174);
+    padding: 25px;
+    text-align: center;
+    border: 2px solid rgb(124, 91, 185);
+    box-shadow: 2px 1px 1px rgb(76, 73, 73),  2px 1px 1px rgb(70, 69, 69), 2px 1px 1px black,  2px 1px 1px black;
+}
+
+
+#div1 {
+    width: 190px;
+    height: 180px;
+    display: flex;
+    justify-content: center;
+    background: #089733;
+    margin-top: 80px;
+    margin-left: 525px;
+}
+
+#title {
+    font-family: monospace;
+    color: #8568b4;
+    text-align: center;
+}
+
+#div2 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 9px;
+    background: #cbc4d6;
+   
+
+}
+
+#num1 {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 8px;
+}
+#num2 {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 8px;
+}
+
+#div2 input {
+    box-shadow: 2px black, 2px black, 2px black;
+}
+
+#res {
+    font-family: monospace;
+    font-size: 20px;
+    color: black;
+}
+
+.quadrado {
+    height: 100px;
+    width: 24%;
+    float: left;
+    border: 1px solid #000;
+
+}
